@@ -25,7 +25,7 @@ You can also import a file containing sift descriptors if you have pre-computed 
 - run_F220_experiment and run_F2000_experiment
 
 These two scripts can be used to replicate the experiments reported in our paper; you have only to download these two datasets and unzip them into the 'dataset' directory. You can find this data at the URL:
-http://www.micc.unifi.it/ballan/research/image-forensics/
+http://www.lambertoballan.net/research/image-forensics/
 
 Please note that you will probably obtain very similar (but not the same) results with respect to those reported in our paper since, in that case, we applied a 4-fold cross validation procedure that is not implemented in these scripts. The expected results are reported in a text file in the dataset directory.
 
