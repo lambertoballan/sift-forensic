@@ -1,15 +1,15 @@
 # sift-forensic
-Copy-move forgery detection using SIFT features (Amerini et al, TIFS 2011)
+Copy-move forgery detection using SIFT features (Amerini et al, TIFS 2011).
 
 This code was developed by I. Amerini, L. Ballan, G. Serra at the Media Integration and Communication Center (MICC), University of Florence (Italy). This package is equivalent to the initial release available on the MICC webpage (May 8, 2012 - version 1.0).
 
 If you use this code please cite the paper:
-**A SIFT-based forensic method for copy-move attack detection and transformation recovery**, I. Amerini, L. Ballan, R. Caldelli, A. Del Bimbo, and G. Serra, IEEE Trans. on Information Forensics and Security, vol. 6, iss. 3, pp. 1099-1110, 2011
+**A SIFT-based forensic method for copy-move attack detection and transformation recovery**, I. Amerini, L. Ballan, R. Caldelli, A. Del Bimbo, and G. Serra, IEEE Trans. on Information Forensics and Security, vol. 6, iss. 3, pp. 1099-1110, 2011.
 
 
 ##Introduction
 This package contains the Matlab implementation of the copy-move detection approach presented in Amerini et al., TIFS 2011. Our code use several public functions and libraries developed by other authors; regarding these files, for any problem or license information, please refer to the respective authors.
-In particular, SIFT features are extracted using the Rob Hess implementation (http://blogs.oregonstate.edu/hess/code/sift/). Anyway, the code works also loading features extraced with other implementations (such as the original code by David Lowe).
+In particular, SIFT features are extracted using the Rob Hess library (this package is now available on Github: http://robwhess.github.io/opensift/). Anyway, the code works also loading features extraced with other implementations (such as the original code by David Lowe or VLFeat).
 
 
 ##Main functions
@@ -39,4 +39,4 @@ You only need to download them and unzip the files in the "sift-forensic/dataset
 
 
 ##Contact
-Irene Amerini (irene.amerini@unifi.it), Lamberto Ballan (lamberto.ballan@dsi.unifi.it) and Giuseppe Serra (giuseppe.serra@unimore.it)
+Irene Amerini (irene.amerini@unifi.it), Lamberto Ballan (lamberto.ballan@unifi.it) and Giuseppe Serra (giuseppe.serra@unimore.it)
