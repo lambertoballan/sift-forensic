@@ -1,0 +1,14 @@
+\form#0:$\left|D(\hat{x})\right|$
+\form#1:$\hat{x}$
+\form#2:$n$
+\form#3:$n \times n$
+\form#4:$3 \times 3$
+\form#5:$x$
+\form#6:$x'$
+\form#7:$H$
+\form#8:$d(x', Hx)^2$
+\form#9:$(x, y)$
+\form#10:$T$
+\form#11:$(u, v)$
+\form#12:$[x' \ y' \ w']^T = T \times [x \ y \ 1]^T$
+\form#13:$(u, v) = (x'/w', y'/w')$
