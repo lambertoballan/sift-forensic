@@ -1,7 +1,7 @@
 # sift-forensic
 Copy-move forgery detection using SIFT features (Amerini et al, TIFS 2011)
 
-This code was developed by I. Amerini, L. Ballan, G. Serra at the Media Integration and Communication Center, University of Florence (Italy). This package is equivalent to the initial release available on the MICC webpage (May 8, 2012 - version 1.0).
+This code was developed by I. Amerini, L. Ballan, G. Serra at the Media Integration and Communication Center (MICC), University of Florence (Italy). This package is equivalent to the initial release available on the MICC webpage (May 8, 2012 - version 1.0).
 
 If you use this code please cite the paper:
 **A SIFT-based forensic method for copy-move attack detection and transformation recovery**
@@ -32,7 +32,13 @@ http://www.micc.unifi.it/ballan/research/image-forensics/
 Please note that you will probably obtain very similar (but not the same) results with respect to those reported in our paper since, in that case, we applied a 4-fold cross validation procedure that is not implemented in these scripts. The expected results are reported in a text file in the dataset directory.
 
 
+##Datasets
+The datasets used in our paper are publicly available and can be dowloaded from the MICC website:
+- MICC-F220: this dataset is composed by 220 images; 110 are tampered and 110 originals (http://www.micc.unifi.it/downloads/MICC-F220.zip).
+- MICC-F2000: this dataset is composed by 2000 images; 700 are tampered and 1300 originals (http://www.micc.unifi.it/downloads/MICC-F2000.zip).
+
+You only need to download them and unzip the files in the "sift-forensic/dataset" directory.
+
+
 ##Contacts
-Irene Amerini   (irene.amerini@unifi.it)
-Lamberto Ballan (lamberto.ballan@dsi.unifi.it)
-Giuseppe Serra  (giuseppe.serra@unimore.it)
+Irene Amerini (irene.amerini@unifi.it), Lamberto Ballan (lamberto.ballan@dsi.unifi.it), Giuseppe Serra (giuseppe.serra@unimore.it)
