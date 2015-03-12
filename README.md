@@ -6,20 +6,6 @@ This code was developed by I. Amerini, L. Ballan, G. Serra at the Media Integrat
 If you use this code please cite the paper:
 **A SIFT-based forensic method for copy-move attack detection and transformation recovery**, I. Amerini, L. Ballan, R. Caldelli, A. Del Bimbo, and G. Serra, IEEE Trans. on Information Forensics and Security, vol. 6, iss. 3, pp. 1099-1110, 2011
 
-Bibtex reference:
-	@article{amerini2011,
-	author = {Amerini, Irene and Ballan, Lamberto and Caldelli, Roberto and Del Bimbo, Alberto and Serra, Giuseppe}, 
-	title = {A {SIFT}-based forensic method for copy-move attack detection and transformation recovery}, 
-	journal = {IEEE Trans. on Information Forensics and Sec.}, 
-	publisher = {IEEE Signal Processing Society}, 
-	volume = {6}, 
-	number = {3}, 
-	pages = {1099--1110}, 
-	doi = {10.1109/TIFS.2011.2129512},
-	month = {Sep.},
-	year = {2011}
-	}
-
 
 ##Introduction
 This package contains the Matlab implementation of the copy-move detection approach presented in Amerini et al., TIFS 2011. Our code use several public functions and libraries developed by other authors; regarding these files, for any problem or license information, please refer to the respective authors.
