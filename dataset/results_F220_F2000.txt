@@ -1,0 +1,22 @@
+MICC-F220
+---
+
+Copy-Move Forgery Detection performance:
+
+TPR = 98.18%	(TIFS'11: 100%)
+FPR = 9.09%	(TIFS'11: 8%)
+
+Computational time: 00:02:57
+(Intel Xeon-5650 @2.67, 6-core, 12gb RAM)
+
+---
+MICC-F2000
+---
+
+Copy-Move Forgery Detection performance:
+
+TPR = 92.29%	(TIFS'11: 93.42%)
+FPR = 11.77%	(TIFS'11: 11.61%)
+
+Computational time: 00:56:57
+(Intel Xeon-5650 @2.67, 6-core, 12gb RAM)
