@@ -1,4 +1,4 @@
-% RUN EXPERIMENT
+% RUN EXPERIMENT (small dataset)
 
 tstart = tic;
 
