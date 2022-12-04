@@ -39,4 +39,4 @@ You only need to download them and unzip the files in the "sift-forensic/dataset
 
 
 ##Contact
-Irene Amerini (irene.amerini@unifi.it), Lamberto Ballan (lamberto.ballan@unifi.it) and Giuseppe Serra (giuseppe.serra@unimore.it)
+Irene Amerini (irene.amerini@uniroma1.it), Lamberto Ballan (lamberto.ballan@unipd.it) and Giuseppe Serra (giuseppe.serra@uniud.it)
